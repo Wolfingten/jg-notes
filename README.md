@@ -1,1 +1,1 @@
-(Wunschzettel)[./Wunschzettel.md]
+[Wunschzettel](./Wunschzettel.md)
