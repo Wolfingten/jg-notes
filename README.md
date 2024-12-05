@@ -1,2 +1,3 @@
-[Wunschzettel](./Wunschzettel.md)
-[Stiefel Marken](./boots.md)
+- [Wunschzettel](./Wunschzettel.md)
+- [Stiefel Marken](./boots.md)
+
