@@ -1,10 +1,10 @@
 ---
 id: Wunschzettel
 aliases: []
-tags: []
+tags:
+  - Wunschzettel
+  - jakob
 ---
-
-tags:: #Wunschzettel #jakob
 
 ### Weihnachten 2024
 - [Rahmengenähte Stiefel](https://eu.meermin.com/collections/mens-boots/products/514686-autumn-spice-waxy-kudu-e?loc=DE&currency=EUR&lang=en)(Größe 5.5)
